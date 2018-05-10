@@ -1,0 +1,6 @@
+(ROOT(NP(NP (NNP BC-Mexico-Quake) (CD ,0081))(NP (NNP |) (NNP Quake) (NNP Shakes) (NNP Mexico) (NNP City) (. .))(. .)))
+(ROOT(S(NP (NNP MEXICO) (NNP CITY))(PRN (-LRB- -LRB-)(NP (NNP AP))(-RRB- -RRB-))(NP (DT A) (JJ strong) (NN earthquake))(VP (VBD shook)(NP(NP (NNP Mexico) (NNP City))(CC and)(NP (JJ southern) (NNP Mexico) (NNP Monday)))(, ,)(S(VP (VBG causing)(NP (JJ tall) (NNS buildings))(PP (TO to)(NP (NN sway)(CC and)(NNS people)))(S(VP (TO to)(VP (VB rush)(PP (IN into)(NP (DT the) (NNS streets)))))))))(. .)))
+(ROOT(S(NP (EX There))(VP (VBD were)(NP(NP (DT no) (JJ immediate) (NNS reports))(PP (IN of)(NP(NP (NNS casualties))(CC or)(NP (JJ major) (NN damage))))))(. .)))
+(ROOT(S(NP (DT The) (NN quake))(VP(VP (VBD struck)(PP (IN at)(NP(NP (CD 9:37) (RB am))(PRN (-LRB- -LRB-)(NP(QP (CD 11:37) (CD EDT)))(-RRB- -RRB-)))))(CC and)(VP (VBD lasted)(NP(QP (RB about) (CD 90))(NNS seconds))))(. .)))
+(ROOT(S(S(NP (JJ Frightened) (NNS people))(VP (VBD ran)(PRT (RP out))(PP (IN of)(NP (PRP$ their) (NNS homes)(CC and)(NNS offices)))))(CC but)(S(NP (NN traffic))(VP (VBD appeared)(ADJP (JJ normal))))(. .)))
+(ROOT(S(NP (DT No) (JJ other) (NNS details))(VP (VBD were)(ADJP (RB immediately) (JJ available)))(. .)))

@@ -1,0 +1,6 @@
+(ROOT(S(NP (NNS Authorities))(VP (VBD reported)(SBAR(S(NP (DT the) (CD 10:05))(VP (VBP am)(NP(NP (NN quake))(SBAR(S(VP (VBD had)(NP(NP (DT a) (JJ preliminary) (NN magnitude))(PP (IN of)(NP (CD 6.9))))(PP (IN at)(NP (PRP$ its) (NN epicenter)))))))))))(. .)))
+(ROOT(S(NP (EX There))(VP (VBD were)(NP (DT no) (VBN reported) (NNS injuries)))(. .)))
+(ROOT(S(NP (JJ BC-Colombia-Quake) (CD ,0078) (NN |))(VP (VBZ Quake)(NP (NNP Hits) (NNP Colombia)))(. .)))
+(ROOT(S(NP (NNP Radio) (NNS reports))(VP (VBD said)(SBAR(S(NP (DT the) (NN temblor))(VP (VBD was)(NP(NP (JJS strongest))(PP (IN in)(NP (JJ northeastern) (NNP Colombia))))))))(. .)))
+(ROOT(S(NP (DT The) (NN quake))(VP (VBD lasted)(NP(QP (RB about) (CD 30))(NNS seconds))(PP (IN in)(NP (DT the) (NN capital) (NN Bogota)))(, ,)(S(VP(VP (VBG shaking)(NP (NNS buildings)))(CC and)(VP (VBG sending)(NP(NP (DT some)(ADJP (JJ frightened))(NNS residents))(VP (VBG running)(PP (IN into)(NP (DT the) (NN street)))))))))(. .)))
+(ROOT(S(NP(NP (NNP BOGOTA))(, ,)(NP(NP (NNP Colombia))(PRN (-LRB- -LRB-)(NP (NNP AP))(-RRB- -RRB-))(NP (DT A) (JJ strong) (NN earthquake))))(VP (VBD rocked)(NP(NP (NNS parts))(PP (IN of)(NP (NNP Colombia))))(PP (IN on)(NP (NNP Thursday))))(. .)))

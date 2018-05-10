@@ -1,0 +1,7 @@
+(ROOT(NP(NP (JJ BC-Japan-Earthquake) (JJ |) (JJ Strong) (NN Earthquake))(NP (NNP Hits) (NNP Northern) (NNP Japan) (. .))(. .)))
+(ROOT(S(NP (NNP TOKYO))(PRN (-LRB- -LRB-)(NP (NNP AP))(-RRB- -RRB-))(NP (DT A) (JJ strong) (NN earthquake))(VP (VBD rocked)(NP(NP (NNS parts))(PP (IN of)(NP (JJ northern) (NNP Japan))))(NP (NNP Wednesday)))(. .)))
+(ROOT(S(NP (EX There))(VP (VBD were)(NP(NP (DT no) (JJ immediate) (NNS reports))(PP (IN of)(NP (NNS injuries)(CC or)(NN damage)))))(. .)))
+(ROOT(S(NP(NP (DT The) (NN quake))(, ,)(SBAR(WHNP (WDT which))(S(VP (VBD had)(NP(NP (DT a) (JJ preliminary) (NN magnitude))(PP (IN of)(NP (CD 5.0)))))))(, ,))(VP (VBD was)(VP (VBN centered)(PP (IN near)(NP(NP (DT the) (NN city))(PP (IN of)(NP(NP (NNP Kaga))(, ,)(NP(NP(QP (RB about) (CD 290))(NNS kilometers))(PRN (-LRB- -LRB-)(NP (CD 180) (NNS miles))(-RRB- -RRB-)))))(ADVP (RB northwest)(PP (IN of)(NP (NNP Tokyo))))))(PP (IN on)(NP(NP (DT the) (NN Sea))(PP (IN of)(NP (NNP Japan) (NN coast)))))))(. .)))
+(ROOT(S(NP(NP (NNP Japan) (POS 's))(NNP Central) (NNP Meteorological) (NNP Agency))(VP (VBD said)(SBAR(S(NP (EX there))(VP (VBD was)(NP(NP (DT no) (NN fear))(PP (IN of)(NP(NP (NN tsunami))(, ,)(CC or)(NP (JJ tidal) (NNS waves))(, ,))))(PP (IN from)(NP (DT the) (NN quake)))))))(. .)))
+(ROOT(S(NP (DT A) (NN magnitude) (CD 5) (NN earthquake))(VP (MD can)(VP(VP (VB sway)(NP (NNS buildings)))(CC and)(VP (VB knock)(PP (IN over)(NP (JJ unstable) (NNS objects))))))(. .)))
+(ROOT(PRN (-LRB- -LRB-) (VB et) (-RRB- -RRB-)))
